@@ -3,5 +3,5 @@
 module.exports = appdemo;
 
 function appdemo() {
-   console.log("appdemo")
+   console.log("appdemo",`${Date()}`)
 }
