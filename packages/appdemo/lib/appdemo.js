@@ -1,6 +1,6 @@
 'use strict';
 
-const userlogin  = require("userlogin")
+const userlogin  = require("@dalongrong/userlogintest")
 
 module.exports = appdemo;
 
