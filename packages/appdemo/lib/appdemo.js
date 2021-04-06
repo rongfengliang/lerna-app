@@ -4,8 +4,12 @@ const userlogin  = require("@dalongrong/userlogintest")
 
 module.exports = appdemo;
 
-function appdemo() {
-   userlogin()
-   console.log("appdemo",`${Date()}`)
-}
-appdemo()
+async function appdemo() {
+   let token = await userlogin()
+   return "appdemo",`${Date()}---${token}`
+};
+(async function(){
+ let info = await appdemo()
+ console.log(info)
+})()
+
