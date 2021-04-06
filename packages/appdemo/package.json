@@ -17,10 +17,12 @@
     "registry": "https://registry.npm.taobao.org"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "start":"node lib/appdemo.js"
   },
   "dependencies": {
     "shortid": "^2.2.16",
+    "userlogin": "^1.0.1",
     "uuid": "^8.3.2"
   }
 }
