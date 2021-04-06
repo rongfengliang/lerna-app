@@ -11,6 +11,9 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "lib"
   ],
@@ -23,5 +26,5 @@
     "shortid": "^2.2.16",
     "uuid": "^8.3.2"
   },
-  "gitHead": "2e6f64c43c2e3b8892ab784c1f38ae7e665fdbf0"
+  "gitHead": "495f37f71d214be5a8a82094f96cf381ddab2d20"
 }
