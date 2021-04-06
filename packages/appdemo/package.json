@@ -1,6 +1,6 @@
 {
   "name": "@dalongrong/appdemotest",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "> TODO: description",
   "author": "rong fengliang <1141591465@qq.com>",
   "homepage": "",
@@ -19,7 +19,7 @@
     "start": "node lib/appdemo.js"
   },
   "dependencies": {
-    "@dalongrong/userlogintest": "^1.0.4",
+    "@dalongrong/userlogintest": "^1.0.5",
     "shortid": "^2.2.16",
     "uuid": "^8.3.2"
   },
