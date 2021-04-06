@@ -1,6 +1,6 @@
 {
   "name": "appdemo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "rong fengliang <1141591465@qq.com>",
   "homepage": "",
@@ -18,11 +18,11 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "start":"node lib/appdemo.js"
+    "start": "node lib/appdemo.js"
   },
   "dependencies": {
     "shortid": "^2.2.16",
-    "userlogin": "^1.0.1",
+    "userlogin": "^1.0.2",
     "uuid": "^8.3.2"
   }
 }
