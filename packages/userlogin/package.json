@@ -14,14 +14,11 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
     "uuid": "^8.3.2"
   },
-  "gitHead": "75e176a0bd9861be7311fdce508a343fd995d52e"
+  "gitHead": "37c687e8244757ba344da3b8db6b696875d0e491"
 }
