@@ -4,6 +4,7 @@
   "description": "> TODO: description",
   "author": "rong fengliang <1141591465@qq.com>",
   "homepage": "",
+  "public": true,
   "license": "ISC",
   "main": "lib/userlogin.js",
   "directories": {
@@ -21,5 +22,6 @@
   },
   "dependencies": {
     "uuid": "^8.3.2"
-  }
+  },
+  "gitHead": "75e176a0bd9861be7311fdce508a343fd995d52e"
 }
